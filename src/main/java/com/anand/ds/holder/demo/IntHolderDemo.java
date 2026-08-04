@@ -3,10 +3,10 @@
  */
 package com.anand.ds.holder.demo;
 
-import org.omg.CORBA.IntHolder;
+//import org.omg.CORBA.IntHolder;
 
 /**
- * @author U45999
+ * @author pursuitanand
  *
  */
 public class IntHolderDemo {
@@ -45,4 +45,12 @@ public class IntHolderDemo {
 		return (x.value*3);
 	}
 
+}
+
+class IntHolder {
+    public int value;
+
+    public IntHolder(int value) {
+        this.value = value;
+    }
 }
