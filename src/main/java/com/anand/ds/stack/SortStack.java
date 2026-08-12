@@ -9,7 +9,7 @@ import java.util.Deque;
 import java.util.Stack;
 
 /**
- * @author u45999
+ * @author mishra
  *
  */
 public class SortStack {

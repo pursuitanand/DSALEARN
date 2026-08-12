@@ -4,7 +4,7 @@
 package com.anand.ds.stack;
 
 /**
- * @author u45999
+ * @author mishra
  *
  */
 public class MyStack {
